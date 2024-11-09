@@ -4,7 +4,7 @@
         mask.classList.add('hide')
         setTimeout(() => {
             mask.remove()
-        }, 1000);
+        }, 2000);
     }
     )
 }) ();
